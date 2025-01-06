@@ -1,6 +1,11 @@
 FitSync : 
 FitSync is a web application that helps users manage their fitness journey by offering a BMI calculator and gym membership options. Users can calculate their Body Mass Index (BMI) and select a gym membership plan according to their specific fitness goals.
 
+### Deployment Link
+
+You can check out the live project here: 
+https://fit-sync-nine.vercel.app/
+
 Features
 BMI Calculator: Users can enter their height and weight to calculate their BMI and assess their fitness level.
 Gym Membership Form: Users can fill out a form to apply for a gym membership, including personal details and fitness preferences.
