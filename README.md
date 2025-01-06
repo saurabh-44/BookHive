@@ -1,4 +1,4 @@
-FitSync
+FitSync : 
 FitSync is a web application that helps users manage their fitness journey by offering a BMI calculator and gym membership options. Users can calculate their Body Mass Index (BMI) and select a gym membership plan according to their specific fitness goals.
 
 Features
